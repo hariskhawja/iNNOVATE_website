@@ -1,5 +1,6 @@
 GitHub Pages: https://jfss-innovate.github.io/iNNOVATE_website/  
-Domain: https://www.jfss-innovate.tech/ (currently down)
+Domain: https://www.jfss-innovate.vercel.app/
+
 
 # Getting Started with Create React App
 
